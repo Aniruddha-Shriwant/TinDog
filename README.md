@@ -1,2 +1,4 @@
 # TinDog
-The website is created with help of Bootstrap4
+
+This is website created with Bootstrap4, which demonstrates the landing page example for apps.
+
